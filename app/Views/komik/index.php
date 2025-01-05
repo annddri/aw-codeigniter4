@@ -20,7 +20,7 @@
       <td><img src="img/<?= $k['sampul']; ?>" class="sampul"></td>
       <td><?= $k['judul']; ?></td>
       <td>
-        <a href="" class="btn text-bg-success text-decoration-none">Detail</a>
+        <a href="/komik/<?= $k['slug']; ?>" class="btn text-bg-success text-decoration-none">Detail</a>
       </td>
     </tr>
   </tbody>
