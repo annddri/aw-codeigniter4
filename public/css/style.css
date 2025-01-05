@@ -5,3 +5,7 @@
 .table > tbody > tr > * {
     vertical-align: middle;
 }
+
+.formTambah {
+    width: 30rem;
+}
